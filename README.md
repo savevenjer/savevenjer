@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate student at King Mongkut's University of Technology North Bangkok, Prachinburi Campus**  
 💻 **Department of Information Technology**  
-🌱 Currently learning basic programming, SQL, and using GitHub for class work.  
+🌱 Currently learning basic programming, and using GitHub for class work.  
 
 🛠 **Tools**
 - GitHub  

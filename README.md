@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Supawich+%F0%9F%91%8B;IT+Student+%40+KMUTNB;Learning+%26+Growing+Every+Day+%F0%9F%8C%B1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Supawich+%F0%9F%91%8B;IT+Student+%40+KMUTNB;Learning+%26+Growing+Every+Day+%F0%9F%8C%B1)
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFmeWZhNWNzNGh1dTQ3Y3ZmdTE3MjR1aTJtZGFjOTY1b2Z1N3pweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="auto" alt="coding cat" />

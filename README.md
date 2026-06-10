@@ -23,7 +23,7 @@
 ## 🛠 Some Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,css,java,js,mysql,python,php" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,java,js,mysql,python,php,c++" />
 </p>
 
 ---

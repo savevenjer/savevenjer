@@ -1,11 +1,44 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Hi+there!+I'm+Supawich+%F0%9F%91%8B;IT+Student+%40+KMUTNB;Learning+%26+Growing+Every+Day+%F0%9F%8C%B1)
+
+coding cat gif
+
+![Profile Views](https://komarev.com/ghpvc/?username=savevenjer&color=58A6FF&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-savevenjer-181717?style=flat-square&logo=github)](https://github.com/savevenjer)
+![Student](https://img.shields.io/badge/Student-KMUTNB-0052CC?style=flat-square&logo=academia)
+
+
+
+---
+
 ## 👋 Hi, I'm Supawich Peantanyakorn
 
-🎓 **Undergraduate student at King Mongkut's University of Technology North Bangkok, Prachinburi Campus**  
-💻 **Department of Information Technology**  
-🌱 Currently learning basic programming, and using GitHub for class work.  
+🎓 **Undergraduate student at King Mongkut's University of Technology
+   North Bangkok, Prachinburi Campus**
+💻 **Department of Information Technology**
+🌱 Currently learning basic programming, and using GitHub for class work.
 
-🛠 **Tools**
-- GitHub  
-- VS Code  
+---
 
-🔗 **GitHub:** [https://github.com/Savevenjer](https://github.com/savevenjer)
+## 🛠 Tools & Technologies
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=savevenjer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savevenjer&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=savevenjer&theme=tokyonight&hide_border=true)
+
+
+
+---
+
+
+  ✨ "Every expert was once a beginner." ✨
